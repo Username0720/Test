@@ -1,0 +1,6 @@
+C:\Users\UserName\source\repos\Test_01\Test_01\bin\Release\Test_01.exe.config
+C:\Users\UserName\source\repos\Test_01\Test_01\bin\Release\Test_01.exe
+C:\Users\UserName\source\repos\Test_01\Test_01\bin\Release\Test_01.pdb
+C:\Users\UserName\source\repos\Test_01\Test_01\obj\Release\Test_01.csproj.CoreCompileInputs.cache
+C:\Users\UserName\source\repos\Test_01\Test_01\obj\Release\Test_01.exe
+C:\Users\UserName\source\repos\Test_01\Test_01\obj\Release\Test_01.pdb
